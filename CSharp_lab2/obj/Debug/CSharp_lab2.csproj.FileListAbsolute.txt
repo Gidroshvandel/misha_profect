@@ -1,0 +1,10 @@
+E:\C#\University\С#\Lab 2\CSharp_lab2\CSharp_lab2\bin\Debug\CSharp_lab2.exe.config
+E:\C#\University\С#\Lab 2\CSharp_lab2\CSharp_lab2\bin\Debug\CSharp_lab2.exe
+E:\C#\University\С#\Lab 2\CSharp_lab2\CSharp_lab2\bin\Debug\CSharp_lab2.pdb
+E:\C#\University\С#\Lab 2\CSharp_lab2\CSharp_lab2\obj\Debug\CSharp_lab2.csprojAssemblyReference.cache
+E:\C#\University\С#\Lab 2\CSharp_lab2\CSharp_lab2\obj\Debug\CSharp_lab2.csproj.CoreCompileInputs.cache
+E:\C#\University\С#\Lab 2\CSharp_lab2\CSharp_lab2\obj\Debug\CSharp_lab2.exe
+E:\C#\University\С#\Lab 2\CSharp_lab2\CSharp_lab2\obj\Debug\CSharp_lab2.pdb
+E:\C#\University\С#\Lab 2\CSharp_lab2\CSharp_lab2\bin\Debug\MassiveLibrary.dll
+E:\C#\University\С#\Lab 2\CSharp_lab2\CSharp_lab2\bin\Debug\MassiveLibrary.pdb
+E:\C#\University\С#\Lab 2\CSharp_lab2\CSharp_lab2\obj\Debug\CSharp_lab2.csproj.CopyComplete

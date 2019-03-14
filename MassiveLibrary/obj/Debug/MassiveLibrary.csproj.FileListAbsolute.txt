@@ -1,0 +1,6 @@
+E:\C#\University\С#\Lab 2\CSharp_lab2\MassiveLibrary\bin\Debug\MassiveLibrary.dll
+E:\C#\University\С#\Lab 2\CSharp_lab2\MassiveLibrary\bin\Debug\MassiveLibrary.pdb
+E:\C#\University\С#\Lab 2\CSharp_lab2\MassiveLibrary\obj\Debug\MassiveLibrary.csproj.CoreCompileInputs.cache
+E:\C#\University\С#\Lab 2\CSharp_lab2\MassiveLibrary\obj\Debug\MassiveLibrary.dll
+E:\C#\University\С#\Lab 2\CSharp_lab2\MassiveLibrary\obj\Debug\MassiveLibrary.pdb
+E:\C#\University\С#\Lab 2\CSharp_lab2\MassiveLibrary\obj\Debug\MassiveLibrary.csprojAssemblyReference.cache

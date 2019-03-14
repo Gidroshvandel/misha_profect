@@ -1,0 +1,2 @@
+E:\C#\University\С#\Lab 2\CSharp_lab2\Library\obj\Debug\LibraryMassive.csprojAssemblyReference.cache
+E:\C#\University\С#\Lab 2\CSharp_lab2\Library\obj\Debug\LibraryMassive.csproj.CoreCompileInputs.cache
